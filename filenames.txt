@@ -1,0 +1,9 @@
+doc_original.txt
+doc_modify0%.txt
+doc_modify20%.txt
+doc_modify40%.txt
+doc_modify60%.txt
+doc_modify80%.txt
+doc_swap20%.txt
+doc_swap40%.txt
+doc_affixes10%.txt
